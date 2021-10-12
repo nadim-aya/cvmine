@@ -1,0 +1,52 @@
+
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 30%;
+    }
+
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+      img{
+          position: absolute;
+          top: 10%;
+          left: 20%;
+          border-radius: 50%;
+
+      }
+      body{
+          background-image: url(./galaxy-3607885_1280.jpg);
+          background-size: cover;
+      }
+      .main{
+            margin: auto;
+            width: 30%;
+            color: white;
+            margin-top: 40px;
+            margin-bottom: 40px;
+            border: dashed rgb(231, 240, 227);
+            padding: 20px;
+            
+      }
+      .imr{
+           color: rgb(8, 1, 8);
+           background-color: violet;
+     }
+      .nice{
+           color: white;
+           background-color: blue;
+           font-size: 30px;
+
+     }
+      .ni{
+        color: blue;
+        background-color: white;
+        font-size: 30px;
+     }
